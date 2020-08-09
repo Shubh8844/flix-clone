@@ -1,2 +1,2 @@
-# flix-clone
+# clone-flix
 Created with CodeSandbox
